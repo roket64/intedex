@@ -1,0 +1,3 @@
+#ifndef ARITHMETICS_HPP
+#define ARITHMETICS_HPP
+#endif
